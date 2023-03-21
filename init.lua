@@ -6,4 +6,4 @@ require("plugins.lualine")
 require("plugins/nvim-tree")
 require("plugins/treesitter")
 
-require("plugins/telescope") f
+require("plugins/telescope") 
