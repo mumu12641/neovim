@@ -12,3 +12,7 @@ keymap.set("n", "<leader>t",":FloatermToggle<CR>")
 keymap.set("n", "<leader>h",":FloatermHide<CR>")
 keymap.set("t", "<leader>h","exit<CR>")
 
+
+keymap.set("n", "<C-L>", ":bnext<CR>")
+keymap.set("n", "<C-H>", ":bprevious<CR>")
+
